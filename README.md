@@ -5,7 +5,7 @@ MBA visualization tool considering several country development index
 python3 app.py
 
 ## Authorship
-Athila Quaresma Santos (Developer)
+Athila Quaresma Santos (Developer)\n
 Rosane Minghim (Supervisor)
 
 ## Institutions
