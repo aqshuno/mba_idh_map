@@ -5,10 +5,10 @@ MBA visualization tool considering several country development index
 python3 app.py
 
 ## Authorship
-Athila Quaresma Santos (Developer)\n
+Athila Quaresma Santos (Developer)<br />
 Rosane Minghim (Supervisor)
 
 ## Institutions
-University of São Paulo (Brazil)
-University College Cork
+University of São Paulo (Brazil)<br />
+University College Cork<br />
 University of Southern Denmark
